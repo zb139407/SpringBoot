@@ -15,7 +15,6 @@ public class HelloController {
      * @author: zhangBin
      * @description: TODO
      * @date: 2020/8/23 23:20
-     * @param: null
      * @return: Hello, SpringBoot!
      */
     @RequestMapping("/hello")
