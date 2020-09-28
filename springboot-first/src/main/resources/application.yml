@@ -1,0 +1,7 @@
+server:
+  port: 8088
+# 设置热部署文件忽略
+#spring:
+#  devtools:
+#    restart:
+#      exclude: config/**
